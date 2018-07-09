@@ -1,11 +1,10 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+	{
+	    "name": "Ansuman",
+	    "email": "ansuman@yahoo.com"
+	},
+	{
+    	"name": "Mark",
+    	"email": "mark@hotmail.com"
+  	}
+]
